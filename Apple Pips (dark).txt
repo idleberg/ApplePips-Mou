@@ -1,0 +1,76 @@
+editor
+foreground: a8aaaa
+background: 374546
+caret: a8aaaa
+
+editor-selection
+foreground: a8aaaa
+background: 696f70
+
+H1
+foreground: 00afd6
+font-style: bold
+
+H2
+foreground: 00afd6
+font-style: bold
+
+H3
+foreground: 00afd6
+
+H4
+foreground: 00afd6
+
+H5
+foreground: 00afd6
+
+H6
+foreground: 00afd6
+
+EMPH
+foreground: ef91a1
+font-style: italic
+
+STRONG
+foreground: efb554
+font-style: bold
+
+HRULE
+foreground: a8aaaa
+background: 696f70
+
+LIST_BULLET
+foreground: e92d46
+
+LIST_ENUMERATOR
+foreground: e92d46
+
+LINK
+foreground: e16712
+
+AUTO_LINK_URL
+foreground: 00b5b0
+
+AUTO_LINK_EMAIL
+foreground: 00b5b0
+
+REFERENCE
+foreground: 929495
+
+IMAGE
+foreground: 00b5b0
+
+CODE
+foreground: 78bb86
+
+VERBATIM
+foreground: 78bb86
+
+HTML_ENTITY
+foreground: dacb6c
+
+COMMENT
+foreground: 7d8182
+
+BLOCKQUOTE
+foreground: e16712
